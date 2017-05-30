@@ -1,0 +1,45 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+body{
+    margin-bottom: -100px;
+    
+}
+
+header{
+    background: #333;
+    width: 100vw;
+    height: 150px;
+    position: absolute;
+    top: 0;
+    z-index: 3;
+}
+
+.left{
+    background: grey;
+    width: 100px;
+    height: 100vh;
+    position: absolute;
+    left: 0;
+    z-index: 2;
+    
+}
+
+.right{
+    background: grey;
+    position: absolute;
+    right: 0;
+    width: 100px;
+    height: 100vh;
+    z-index: 2;
+}
+
+footer{
+    background: #111;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
