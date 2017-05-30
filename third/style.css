@@ -1,0 +1,46 @@
+
+
+.header{
+    width: 100vw;
+    height: 80px;
+    background: gainsboro;
+    padding-left: 50px;
+}
+
+.menu{
+    width: 100px;
+    height: 60px;
+    background: cornflowerblue;
+}
+
+.text{
+    width: 100vw;
+    height: 200px;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.blue{
+    width: 100vw;
+    height: 150px;
+    background: cornflowerblue;
+}
+
+.turq{
+    width: 100vw;
+    height: 150px;
+    background-color:aquamarine;
+}
+
+.green{
+    width: 100vw;
+    height: 150px;
+    background-color: darkkhaki;
+}
+
+.yellow{
+    width: 100vw;
+    height: 150px;
+    background-color: yellow;
+}
